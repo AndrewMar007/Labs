@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1543695830 source:c:\users\usr\desktop\Новая папка\cla_lab_7_3_8_2-b\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
